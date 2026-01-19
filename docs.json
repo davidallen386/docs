@@ -12,7 +12,21 @@
     "tabs": [
       {
         "tab": "Documentation",
+        "global": {
+          "anchors": [
+            {
+              "anchor": "Tour DittoSheets",
+              "href": "https://dittosheets.com/tour-dittosheets"
+            }
+          ]
+        },
         "groups": [
+          {
+            "group": "Getting Started",
+            "pages": [
+              "documentation/getting-started/what-is-ditto-sheets"
+            ]
+          },
           {
             "group": "Content Hub",
             "pages": []
