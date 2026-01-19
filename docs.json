@@ -9,11 +9,24 @@
   },
   "favicon": "https://dittosheets.com/favicon",
   "navigation": {
-    "groups": [
+    "tabs": [
       {
-        "group": "How-To's",
-        "pages": [
-          "how-tos/tracing-darkness"
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Content Hub",
+            "pages": []
+          },
+          {
+            "group": "Basic Sheet Builder",
+            "pages": [
+              "how-tos/tracing-darkness"
+            ]
+          },
+          {
+            "group": "Advanced Sheet Builder",
+            "pages": []
+          }
         ]
       }
     ]
